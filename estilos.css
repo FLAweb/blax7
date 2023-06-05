@@ -111,7 +111,7 @@ nav ul li a:hover {
 footer{
     display: grid;
     place-items: center;
-    margin-top: 100px;
+    margin-top: 200px;
     margin-bottom: 70px;
 
 }
@@ -152,9 +152,16 @@ footer img{
     border-radius: 10%;
 }
 
+.pewma{
+    width: 20%;
+    margin-top: 100px;
+    margin-left: 70%;
+    margin-bottom: 150px;
+}
 
-
-
+.pewma img{
+    width: 100%;
+}
 
 
 @media (max-width: 800px) {
